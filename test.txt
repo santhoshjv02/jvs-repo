@@ -1,3 +1,5 @@
 from local
 from desktop
 after ssh
+
+git remote set-url origin git@github.com:santhoshjv02/jvs-repo.git
